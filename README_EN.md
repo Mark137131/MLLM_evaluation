@@ -23,12 +23,16 @@ Through research and analysis, we identified four common types of image tamperin
 - **Manipulation**: Modifying or editing image content
 - **Removal**: Removing part of the content in an image
 
-![Tampering Types](images/tamperingTypesEN.png)
+<div align="center">
+<img src="images/tamperingTypesEN.png" width="80%">
+</div>
 
 ### Experimental Datasets
 We used multiple common image tampering detection datasets in our experiments: CASIA v1.0, CASIA v2.0, Columbia, NIST, COVERAGE, IMD2020
 
-![Dataset Information](images/datasetsEN.png)
+<div align="center">
+<img src="images/datasetsEN.png" width="70%">
+</div>
 
 ## 🤖 Evaluation Models
 
@@ -80,9 +84,13 @@ These models can output corresponding tampering masks based on input images and 
 Here are some example results of models on tampering detection tasks:
 
 - Tampered regions detected by traditional tampering detection models
-![Traditional Model Example](images/eg_specialized.png)
+<div align="center">
+<img src="images/eg_specialized.png" width="70%">
+</div>
 - Tampered regions detected by multimodal large language models
-![Multimodal Model Example](images/eg_MLLM.png)
+<div align="center">
+<img src="images/eg_MLLM.png" width="65%">
+</div>
 
 ### IOU Metrics Comparison
 Radar charts intuitively show the performance comparison of different models on IOU metrics:

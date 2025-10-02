@@ -23,12 +23,16 @@
 - **Manipulation**：对图像内容进行修改或编辑
 - **Removal**：移除图像中的部分内容
 
-![篡改类型](images/tamperingTypesEN.png)
+<div align="center">
+<img src="images/tamperingTypesEN.png" width="80%">
+</div>
 
 ### 实验数据集
 我们在实验中使用了多个常见的图像篡改检测数据集：CASIA v1.0, CASIA v2.0, Columbia, NIST, COVERAGE, IMD2020
 
-![数据集信息](images/datasetsEN.png)
+<div align="center">
+<img src="images/datasetsEN.png" width="70%">
+</div>
 
 ## 🤖 评估模型
 
@@ -80,9 +84,13 @@
 以下是部分模型在篡改检测任务上的示例结果：
 
 - 传统篡改检测模型检测出的篡改区域示例
-![传统模型示例](images/eg_specialized.png)
+<div align="center">
+<img src="images/eg_specialized.png" width="70%">
+</div>
 - 多模态大模型检测出的篡改区域示例
-![多模态大模型示例](images/eg_MLLM.png)
+<div align="center">
+<img src="images/eg_MLLM.png" width="65%">
+</div>
 
 ### IOU指标对比
 通过雷达图直观展示不同模型在IOU指标上的表现对比：
