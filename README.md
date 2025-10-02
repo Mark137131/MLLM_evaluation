@@ -24,7 +24,7 @@
 - **Removal**：移除图像中的部分内容
 
 <div align="center">
-<img src="images/tamperingTypesEN.png" width="80%">
+<img src="images/tamperingTypesEN.png" width="50%">
 </div>
 
 ### 实验数据集
