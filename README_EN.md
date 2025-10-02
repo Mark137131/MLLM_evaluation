@@ -24,7 +24,7 @@ Through research and analysis, we identified four common types of image tamperin
 - **Removal**: Removing part of the content in an image
 
 <div align="center">
-<img src="images/tamperingTypesEN.png" width="60%">
+<img src="images/tamperingTypesEN.png" width="50%">
 </div>
 
 ### Experimental Datasets
