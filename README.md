@@ -1,6 +1,6 @@
 # 多模态大模型在图像伪造检测中的性能评估
 
-[English Version](README_EN.md) ｜ [中文版](README_CN.md)
+[English Version](README_EN.md) ｜ [中文版](README.md)
 
 ## 📋 项目概览
 
