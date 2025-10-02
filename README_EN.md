@@ -1,6 +1,6 @@
 # Performance Evaluation of Multimodal Large Language Models in Image Forgery Detection
 
-[English Version](README_EN.md) ｜ [中文版](README_CN.md)
+[English Version](README_EN.md) ｜ [中文版](README.md)
 
 ## 📋 Project Overview
 
